@@ -1,8 +1,8 @@
 # Life-expectancy-project
 
-Source - 
+Analysing Life-expectancy 
 
-Used - Pandas, Matplotlib, Seaborn
+Used tools/packages - Pandas, Matplotlib, Seaborn
 
 
 OBSERVATIONS:
