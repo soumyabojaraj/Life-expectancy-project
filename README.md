@@ -5,7 +5,7 @@ Analysing Life-expectancy
 Used tools/packages - Pandas, Matplotlib, Seaborn
 
 
-OBSERVATIONS:
+SCOPE AND OBSERVATIONS:
 1. Has life expectancy average increased over the years?
   * yes, life expectancy has increased over the years.
 
