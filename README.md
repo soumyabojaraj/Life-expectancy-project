@@ -24,3 +24,6 @@ SCOPE AND OBSERVATIONS:
 
 6. Which country has the highest average GDP?
   * United States of America has the highest average GDP.
+
+7. Is there a relation between GDP and life expectancy?
+  * Yes, GDP and life expectancy are positively correlated.
